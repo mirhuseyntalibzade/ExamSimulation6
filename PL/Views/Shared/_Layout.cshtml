@@ -102,18 +102,40 @@
                                 </ul>
                             </div>
                             <div class="quote_btn-container">
-                                <a asp-controller="Account" asp-action="Login">
-                                    <i class="fa fa-user" aria-hidden="true"></i>
-                                    <span>
-                                        Login
-                                    </span>
-                                </a>
-                                <a asp-controller="Account" asp-action="Register">
-                                    <i class="fa fa-user" aria-hidden="true"></i>
-                                    <span>
-                                        Sign Up
-                                    </span>
-                                </a>
+                                @if(!User.Identity.IsAuthenticated){
+                                    <a asp-controller="Account" asp-action="Login">
+                                        <i class="fa fa-user" aria-hidden="true"></i>
+                                        <span>
+                                            Login
+                                        </span>
+                                    </a>
+                                    <a asp-controller="Account" asp-action="Register">
+                                        <i class="fa fa-user" aria-hidden="true"></i>
+                                        <span>
+                                            Sign Up
+                                        </span>
+                                    </a>
+                                }else if(User.IsInRole("Admin")){
+                                    <a asp-controller="Dashboard" asp-action="Index" asp-area="Admin">
+                                        <i class="fa fa-user" aria-hidden="true"></i>
+                                        <span>
+                                            Admin
+                                        </span>
+                                    </a>
+                                    <a asp-controller="Account" asp-action="Logout">
+                                        <i class="fa fa-user" aria-hidden="true"></i>
+                                        <span>
+                                            Log out
+                                        </span>
+                                    </a>
+                                }else{
+                                    <a asp-controller="Account" asp-action="Logout">
+                                        <i class="fa fa-user" aria-hidden="true"></i>
+                                        <span>
+                                            Log out
+                                        </span>
+                                    </a>
+                                }
                                 <form class="form-inline">
                                     <button class="btn  my-2 my-sm-0 nav_search-btn" type="submit">
                                         <i class="fa fa-search" aria-hidden="true"></i>

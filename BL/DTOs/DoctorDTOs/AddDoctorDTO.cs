@@ -1,4 +1,5 @@
 ﻿using CORE.Models;
+using BL.Utilities;
 using FluentValidation;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc.Rendering;
@@ -31,7 +32,7 @@ namespace BL.DTOs.DoctorDTOs
                 .Cascade(CascadeMode.Stop)
                 .NotNull().WithMessage("Image cannot be null")
                 .Must(x => x.Length < 5 * 1024 * 1024).WithMessage("Department is required")
-                .Must(x => x.Equals("image/jpeg") || x.Equals("image/jpg") || x.Equals("image/png")).WithMessage("Image only suports image type (jpeg,jpg,png)");
+                .Must(x => x.CheckType("image")).WithMessage("File must be image!");
         }
     }
 }

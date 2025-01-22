@@ -43,23 +43,25 @@ namespace PL.Areas.Admin.Controllers
         [HttpPost]
         public async Task<IActionResult> Create(AddDepartmentDTO dto)
         {
-            if (!ModelState.IsValid)
-            {
-                return View(dto);
-            }
             try
             {
+                if (!ModelState.IsValid)
+                {
+                    return View(dto);
+                }
                 await _departmentService.CreateDepartmentAsync(dto);
                 await _departmentService.SaveChangesAsync();
                 return RedirectToAction("Index");
             }
             catch (MainException ex)
             {
-                return BadRequest(ex.Message);
+                ModelState.AddModelError("CustomError", ex.Message);
+                return View(dto);
             }
             catch (Exception ex)
             {
-                return BadRequest(ex.Message);
+                ModelState.AddModelError("CustomError", ex.Message);
+                return View(dto);
             }
         }
 
@@ -82,23 +84,25 @@ namespace PL.Areas.Admin.Controllers
         [HttpPost]
         public async Task<IActionResult> Update(UpdateDepartmentDTO updateDto)
         {
-            //if (!ModelState.IsValid)
-            //{
-            //    return View(updateDto);
-            //}
             try
             {
+                if (!ModelState.IsValid)
+                {
+                    return View(updateDto);
+                }
                 await _departmentService.UpdateDepartmentAsync(updateDto);
                 await _departmentService.SaveChangesAsync();
                 return RedirectToAction("Index");
             }
             catch (MainException ex)
             {
-                return BadRequest(ex.Message);
+                ModelState.AddModelError("CustomError", ex.Message);
+                return View(updateDto);
             }
             catch (Exception ex)
             {
-                return BadRequest(ex.Message);
+                ModelState.AddModelError("CustomError", ex.Message);
+                return View(updateDto);
             }
         }
 

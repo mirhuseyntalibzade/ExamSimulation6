@@ -1,4 +1,5 @@
-﻿using FluentValidation;
+﻿using BL.Utilities;
+using FluentValidation;
 using Microsoft.AspNetCore.Http;
 using System;
 using System.Collections.Generic;
@@ -28,9 +29,8 @@ namespace BL.DTOs.DepartmentDTOs
                .MaximumLength(250).WithMessage("Description can be maximum 250 characters.");
             RuleFor(x => x.Image)
                 .Cascade(CascadeMode.Stop)
-                .NotNull().WithMessage("Image cannot be null")
-                .Must(x => x.Length < 5 * 1024 * 1024).WithMessage("Department is required")
-                .Must(x => x.Equals("image/jpeg") || x.Equals("image/jpg") || x.Equals("image/png")).WithMessage("Image only suports image type (jpeg,jpg,png)");
+                .Must(x => x is null || x.Length < 5 * 1024 * 1024).WithMessage("DImage length cannot be bigger than 5mb.")
+                .Must(x => x is null || x.CheckType("image")).WithMessage("File must be image!");
         }
     }
 }

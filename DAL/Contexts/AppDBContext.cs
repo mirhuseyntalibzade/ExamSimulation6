@@ -15,10 +15,7 @@ namespace DAL.Contexts
     {
         public DbSet<Department> Departments { get; set; }
         public DbSet<Doctor> Doctors { get; set; }
-        public AppDBContext(DbContextOptions<AppDBContext> opt) : base(opt)
-        {
-            
-        }
+        public AppDBContext(DbContextOptions<AppDBContext> opt) : base(opt) { }
 
         protected override void OnModelCreating(ModelBuilder builder)
         {
@@ -34,7 +31,8 @@ namespace DAL.Contexts
                 Id = "26294cb6-1fca-4cf5-93e4-f742cae69c68",
                 UserName = "admin",
                 NormalizedUserName = "ADMIN",
-                Email = "admin@gmail.com"
+                Email = "admin@gmail.com",
+                NormalizedEmail = "ADMIN@GMAIL.COM"
             };
 
             PasswordHasher<IdentityUser> hasher = new();

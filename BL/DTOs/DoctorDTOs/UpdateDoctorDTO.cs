@@ -1,4 +1,5 @@
-﻿using FluentValidation;
+﻿using BL.Utilities;
+using FluentValidation;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using System;
@@ -29,9 +30,8 @@ namespace BL.DTOs.DoctorDTOs
             RuleFor(x => x.DepartmentId).NotEmpty().WithMessage("Department is required");
             RuleFor(x => x.Image)
                 .Cascade(CascadeMode.Stop)
-                .NotNull().WithMessage("Image cannot be null")
-                .Must(x => x.Length < 5 * 1024 * 1024).WithMessage("Department is required")
-                .Must(x => x.Equals("image/jpeg") || x.Equals("image/jpg") || x.Equals("image/png")).WithMessage("Image only suports image type (jpeg,jpg,png)");
+                .Must(x => x is null || x.Length < 5 * 1024 * 1024).WithMessage("Image length cannot be bigger than 5mb.")
+                .Must(x => x is null || x.CheckType("image")).WithMessage("File must be image!");
         }
     }
 }

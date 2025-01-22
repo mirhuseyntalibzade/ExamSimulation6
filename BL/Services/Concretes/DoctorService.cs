@@ -44,12 +44,12 @@ namespace BL.Services.Concretes
 
         public async Task<ICollection<GetDoctorDTO>> GetAllDoctorsAsync()
         {
-            return _mapper.Map<ICollection<GetDoctorDTO>>(await _repository.GetAllAsync());
+            return _mapper.Map<ICollection<GetDoctorDTO>>(await _repository.GetAllAsync("Department"));
         }
 
         public async Task<GetDoctorDTO> GetDoctorByIdAsync(int Id)
         {
-            Doctor department = await _repository.GetByIdAsync(Id);
+            Doctor department = await _repository.GetByIdAsync(Id, "Department");
             if (department is null)
             {
                 throw new MainException("Doctor cannot be found.");

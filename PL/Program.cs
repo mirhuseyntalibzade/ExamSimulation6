@@ -13,7 +13,7 @@ namespace PL
         {
             var builder = WebApplication.CreateBuilder(args);
 
-            builder.Services.AddControllersWithViews();
+            builder.Services.AddControllersWithViews(opt=>opt.ModelValidatorProviders.Clear());
 
             builder.Services.AddIdentity<IdentityUser, IdentityRole>().AddEntityFrameworkStores<AppDBContext>().AddDefaultTokenProviders();
 
@@ -32,9 +32,9 @@ namespace PL
                 options.AddPolicy("User", policy => policy.RequireRole("User"));
             });
 
-            builder.Services.Configure<CookieAuthenticationOptions>(options =>
+            builder.Services.ConfigureApplicationCookie(opt =>
             {
-                options.AccessDeniedPath = new PathString("/");
+                opt.AccessDeniedPath = "/";
             });
 
 

@@ -17,6 +17,8 @@
             <input asp-for="Image" type="file" class="form-control">
             <span asp-validation-for="Image" class="text-danger"></span>
         </div>
+        <p>@Html.ValidationMessage("CustomError")</p>
+
         <button type="submit" class="btn btn-success text-white">Update</button>
     </form>
 </div>

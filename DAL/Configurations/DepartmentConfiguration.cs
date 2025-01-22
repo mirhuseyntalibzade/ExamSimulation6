@@ -37,10 +37,10 @@ namespace DAL.Configurations
 
 
             builder
-        .HasMany(e => e.Doctors)
-        .WithOne(e => e.Department)
-        .HasForeignKey(e => e.DepartmentId)
-        .IsRequired();
+                .HasMany(e => e.Doctors)
+                .WithOne(e => e.Department)
+                .HasForeignKey(e => e.DepartmentId)
+                .IsRequired();
         }
     }
 }

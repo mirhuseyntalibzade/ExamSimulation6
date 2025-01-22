@@ -1,114 +1,190 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\II Novbe\\source\\repos\\ExamSimulation\\",
+  "WorkspaceRootPath": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|c:\\users\\ii novbe\\source\\repos\\examsimulation\\pl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|solutionrelative:pl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E379E70F-1B87-4689-A696-5983C935AC99}|DAL\\DAL.csproj|c:\\users\\my computer\\desktop\\examsimulation6\\dal\\repositories\\abstractions\\ideparmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E379E70F-1B87-4689-A696-5983C935AC99}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\abstractions\\ideparmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|c:\\users\\ii novbe\\source\\repos\\examsimulation\\pl\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|solutionrelative:pl\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E379E70F-1B87-4689-A696-5983C935AC99}|DAL\\DAL.csproj|c:\\users\\my computer\\desktop\\examsimulation6\\dal\\repositories\\abstractions\\idoctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E379E70F-1B87-4689-A696-5983C935AC99}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\abstractions\\idoctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|c:\\users\\ii novbe\\source\\repos\\examsimulation\\pl\\areas\\admin\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|solutionrelative:pl\\areas\\admin\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E379E70F-1B87-4689-A696-5983C935AC99}|DAL\\DAL.csproj|c:\\users\\my computer\\desktop\\examsimulation6\\dal\\repositories\\concretes\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E379E70F-1B87-4689-A696-5983C935AC99}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\concretes\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|c:\\users\\ii novbe\\source\\repos\\examsimulation\\pl\\areas\\admin\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|solutionrelative:pl\\areas\\admin\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E379E70F-1B87-4689-A696-5983C935AC99}|DAL\\DAL.csproj|c:\\users\\my computer\\desktop\\examsimulation6\\dal\\repositories\\abstractions\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E379E70F-1B87-4689-A696-5983C935AC99}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\abstractions\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|c:\\users\\ii novbe\\source\\repos\\examsimulation\\pl\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|solutionrelative:pl\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|c:\\users\\ii novbe\\source\\repos\\examsimulation\\pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|c:\\users\\my computer\\desktop\\examsimulation6\\pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|solutionrelative:pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|c:\\users\\ii novbe\\source\\repos\\examsimulation\\pl\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|solutionrelative:pl\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E379E70F-1B87-4689-A696-5983C935AC99}|DAL\\DAL.csproj|c:\\users\\my computer\\desktop\\examsimulation6\\dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E379E70F-1B87-4689-A696-5983C935AC99}|DAL\\DAL.csproj|solutionrelative:dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|c:\\users\\ii novbe\\source\\repos\\examsimulation\\pl\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|solutionrelative:pl\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E379E70F-1B87-4689-A696-5983C935AC99}|DAL\\DAL.csproj|c:\\users\\my computer\\desktop\\examsimulation6\\dal\\configurations\\doctorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E379E70F-1B87-4689-A696-5983C935AC99}|DAL\\DAL.csproj|solutionrelative:dal\\configurations\\doctorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|c:\\users\\ii novbe\\source\\repos\\examsimulation\\pl\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|solutionrelative:pl\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|c:\\users\\ii novbe\\source\\repos\\examsimulation\\pl\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|solutionrelative:pl\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D57397A-A696-4860-9553-1EEA44B8D656}|BL\\BL.csproj|c:\\users\\ii novbe\\source\\repos\\examsimulation\\bl\\services\\concretes\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D57397A-A696-4860-9553-1EEA44B8D656}|BL\\BL.csproj|solutionrelative:bl\\services\\concretes\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|c:\\users\\ii novbe\\source\\repos\\examsimulation\\pl\\areas\\admin\\views\\doctor\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|solutionrelative:pl\\areas\\admin\\views\\doctor\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|c:\\users\\ii novbe\\source\\repos\\examsimulation\\pl\\areas\\admin\\views\\doctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|solutionrelative:pl\\areas\\admin\\views\\doctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|c:\\users\\ii novbe\\source\\repos\\examsimulation\\pl\\areas\\admin\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|solutionrelative:pl\\areas\\admin\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|c:\\users\\ii novbe\\source\\repos\\examsimulation\\pl\\areas\\admin\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|solutionrelative:pl\\areas\\admin\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D57397A-A696-4860-9553-1EEA44B8D656}|BL\\BL.csproj|c:\\users\\ii novbe\\source\\repos\\examsimulation\\bl\\dtos\\doctordtos\\adddoctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D57397A-A696-4860-9553-1EEA44B8D656}|BL\\BL.csproj|solutionrelative:bl\\dtos\\doctordtos\\adddoctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|c:\\users\\ii novbe\\source\\repos\\examsimulation\\pl\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|solutionrelative:pl\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|c:\\users\\ii novbe\\source\\repos\\examsimulation\\pl\\areas\\admin\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|solutionrelative:pl\\areas\\admin\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D57397A-A696-4860-9553-1EEA44B8D656}|BL\\BL.csproj|c:\\users\\ii novbe\\source\\repos\\examsimulation\\bl\\services\\concretes\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D57397A-A696-4860-9553-1EEA44B8D656}|BL\\BL.csproj|solutionrelative:bl\\services\\concretes\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D57397A-A696-4860-9553-1EEA44B8D656}|BL\\BL.csproj|c:\\users\\ii novbe\\source\\repos\\examsimulation\\bl\\profiles\\doctorprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D57397A-A696-4860-9553-1EEA44B8D656}|BL\\BL.csproj|solutionrelative:bl\\profiles\\doctorprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|c:\\users\\ii novbe\\source\\repos\\examsimulation\\pl\\areas\\admin\\views\\department\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|solutionrelative:pl\\areas\\admin\\views\\department\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D57397A-A696-4860-9553-1EEA44B8D656}|BL\\BL.csproj|c:\\users\\ii novbe\\source\\repos\\examsimulation\\bl\\profiles\\departmentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D57397A-A696-4860-9553-1EEA44B8D656}|BL\\BL.csproj|solutionrelative:bl\\profiles\\departmentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E379E70F-1B87-4689-A696-5983C935AC99}|DAL\\DAL.csproj|c:\\users\\ii novbe\\source\\repos\\examsimulation\\dal\\configurations\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E379E70F-1B87-4689-A696-5983C935AC99}|DAL\\DAL.csproj|c:\\users\\my computer\\desktop\\examsimulation6\\dal\\configurations\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E379E70F-1B87-4689-A696-5983C935AC99}|DAL\\DAL.csproj|solutionrelative:dal\\configurations\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D57397A-A696-4860-9553-1EEA44B8D656}|BL\\BL.csproj|c:\\users\\ii novbe\\source\\repos\\examsimulation\\bl\\utilities\\uploadimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D57397A-A696-4860-9553-1EEA44B8D656}|BL\\BL.csproj|solutionrelative:bl\\utilities\\uploadimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D57397A-A696-4860-9553-1EEA44B8D656}|BL\\BL.csproj|c:\\users\\my computer\\desktop\\examsimulation6\\bl\\configurationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D57397A-A696-4860-9553-1EEA44B8D656}|BL\\BL.csproj|solutionrelative:bl\\configurationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D57397A-A696-4860-9553-1EEA44B8D656}|BL\\BL.csproj|c:\\users\\ii novbe\\source\\repos\\examsimulation\\bl\\dtos\\departmentdtos\\adddepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E379E70F-1B87-4689-A696-5983C935AC99}|DAL\\DAL.csproj|c:\\users\\my computer\\desktop\\examsimulation6\\dal\\configurationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E379E70F-1B87-4689-A696-5983C935AC99}|DAL\\DAL.csproj|solutionrelative:dal\\configurationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|c:\\users\\my computer\\desktop\\examsimulation6\\pl\\areas\\admin\\views\\doctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|solutionrelative:pl\\areas\\admin\\views\\doctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|c:\\users\\my computer\\desktop\\examsimulation6\\pl\\areas\\admin\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|solutionrelative:pl\\areas\\admin\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D57397A-A696-4860-9553-1EEA44B8D656}|BL\\BL.csproj|c:\\users\\my computer\\desktop\\examsimulation6\\bl\\dtos\\departmentdtos\\getdepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D57397A-A696-4860-9553-1EEA44B8D656}|BL\\BL.csproj|solutionrelative:bl\\dtos\\departmentdtos\\getdepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D57397A-A696-4860-9553-1EEA44B8D656}|BL\\BL.csproj|c:\\users\\my computer\\desktop\\examsimulation6\\bl\\services\\concretes\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D57397A-A696-4860-9553-1EEA44B8D656}|BL\\BL.csproj|solutionrelative:bl\\services\\concretes\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D57397A-A696-4860-9553-1EEA44B8D656}|BL\\BL.csproj|c:\\users\\my computer\\desktop\\examsimulation6\\bl\\services\\concretes\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D57397A-A696-4860-9553-1EEA44B8D656}|BL\\BL.csproj|solutionrelative:bl\\services\\concretes\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C8129EA-7221-4E5E-A69B-BCEBC00716EA}|CORE\\CORE.csproj|c:\\users\\my computer\\desktop\\examsimulation6\\core\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C8129EA-7221-4E5E-A69B-BCEBC00716EA}|CORE\\CORE.csproj|solutionrelative:core\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C8129EA-7221-4E5E-A69B-BCEBC00716EA}|CORE\\CORE.csproj|c:\\users\\my computer\\desktop\\examsimulation6\\core\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C8129EA-7221-4E5E-A69B-BCEBC00716EA}|CORE\\CORE.csproj|solutionrelative:core\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|c:\\users\\my computer\\desktop\\examsimulation6\\pl\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|solutionrelative:pl\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|c:\\users\\my computer\\desktop\\examsimulation6\\pl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|solutionrelative:pl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D57397A-A696-4860-9553-1EEA44B8D656}|BL\\BL.csproj|c:\\users\\my computer\\desktop\\examsimulation6\\bl\\dtos\\doctordtos\\adddoctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D57397A-A696-4860-9553-1EEA44B8D656}|BL\\BL.csproj|solutionrelative:bl\\dtos\\doctordtos\\adddoctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D57397A-A696-4860-9553-1EEA44B8D656}|BL\\BL.csproj|c:\\users\\my computer\\desktop\\examsimulation6\\bl\\dtos\\doctordtos\\updatedoctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D57397A-A696-4860-9553-1EEA44B8D656}|BL\\BL.csproj|solutionrelative:bl\\dtos\\doctordtos\\updatedoctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D57397A-A696-4860-9553-1EEA44B8D656}|BL\\BL.csproj|c:\\users\\my computer\\desktop\\examsimulation6\\bl\\dtos\\departmentdtos\\updatedepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D57397A-A696-4860-9553-1EEA44B8D656}|BL\\BL.csproj|solutionrelative:bl\\dtos\\departmentdtos\\updatedepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D57397A-A696-4860-9553-1EEA44B8D656}|BL\\BL.csproj|c:\\users\\my computer\\desktop\\examsimulation6\\bl\\dtos\\departmentdtos\\adddepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D57397A-A696-4860-9553-1EEA44B8D656}|BL\\BL.csproj|solutionrelative:bl\\dtos\\departmentdtos\\adddepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|c:\\users\\ii novbe\\source\\repos\\examsimulation\\pl\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7D57397A-A696-4860-9553-1EEA44B8D656}|BL\\BL.csproj|c:\\users\\my computer\\desktop\\examsimulation6\\bl\\dtos\\authdto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D57397A-A696-4860-9553-1EEA44B8D656}|BL\\BL.csproj|solutionrelative:bl\\dtos\\authdto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D57397A-A696-4860-9553-1EEA44B8D656}|BL\\BL.csproj|c:\\users\\my computer\\desktop\\examsimulation6\\bl\\utilities\\uploadimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D57397A-A696-4860-9553-1EEA44B8D656}|BL\\BL.csproj|solutionrelative:bl\\utilities\\uploadimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|c:\\users\\my computer\\desktop\\examsimulation6\\pl\\areas\\admin\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|solutionrelative:pl\\areas\\admin\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|c:\\users\\my computer\\desktop\\examsimulation6\\pl\\areas\\admin\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|solutionrelative:pl\\areas\\admin\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|c:\\users\\my computer\\desktop\\examsimulation6\\pl\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|solutionrelative:pl\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D57397A-A696-4860-9553-1EEA44B8D656}|BL\\BL.csproj|c:\\users\\my computer\\desktop\\examsimulation6\\bl\\services\\concretes\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D57397A-A696-4860-9553-1EEA44B8D656}|BL\\BL.csproj|solutionrelative:bl\\services\\concretes\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|c:\\users\\my computer\\desktop\\examsimulation6\\pl\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|solutionrelative:pl\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D57397A-A696-4860-9553-1EEA44B8D656}|BL\\BL.csproj|c:\\users\\my computer\\desktop\\examsimulation6\\bl\\dtos\\authdto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D57397A-A696-4860-9553-1EEA44B8D656}|BL\\BL.csproj|solutionrelative:bl\\dtos\\authdto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D57397A-A696-4860-9553-1EEA44B8D656}|BL\\BL.csproj|c:\\users\\my computer\\desktop\\examsimulation6\\bl\\services\\abstractions\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D57397A-A696-4860-9553-1EEA44B8D656}|BL\\BL.csproj|solutionrelative:bl\\services\\abstractions\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|c:\\users\\my computer\\desktop\\examsimulation6\\pl\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|solutionrelative:pl\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|c:\\users\\my computer\\desktop\\examsimulation6\\pl\\areas\\admin\\views\\doctor\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|solutionrelative:pl\\areas\\admin\\views\\doctor\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|c:\\users\\my computer\\desktop\\examsimulation6\\pl\\areas\\admin\\views\\department\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|solutionrelative:pl\\areas\\admin\\views\\department\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|c:\\users\\my computer\\desktop\\examsimulation6\\pl\\areas\\admin\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|solutionrelative:pl\\areas\\admin\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|c:\\users\\my computer\\desktop\\examsimulation6\\pl\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|solutionrelative:pl\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|c:\\users\\my computer\\desktop\\examsimulation6\\pl\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|solutionrelative:pl\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|c:\\users\\my computer\\desktop\\examsimulation6\\pl\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|solutionrelative:pl\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|c:\\users\\my computer\\desktop\\examsimulation6\\pl\\areas\\admin\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|solutionrelative:pl\\areas\\admin\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|c:\\users\\my computer\\desktop\\examsimulation6\\pl\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|solutionrelative:pl\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D57397A-A696-4860-9553-1EEA44B8D656}|BL\\BL.csproj|c:\\users\\my computer\\desktop\\examsimulation6\\bl\\profiles\\doctorprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D57397A-A696-4860-9553-1EEA44B8D656}|BL\\BL.csproj|solutionrelative:bl\\profiles\\doctorprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D57397A-A696-4860-9553-1EEA44B8D656}|BL\\BL.csproj|c:\\users\\my computer\\desktop\\examsimulation6\\bl\\profiles\\departmentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D57397A-A696-4860-9553-1EEA44B8D656}|BL\\BL.csproj|solutionrelative:bl\\profiles\\departmentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|c:\\users\\my computer\\desktop\\examsimulation6\\pl\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|solutionrelative:pl\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|c:\\users\\ii novbe\\source\\repos\\examsimulation\\pl\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|c:\\users\\my computer\\desktop\\examsimulation6\\pl\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B4048ED8-FFC9-4D82-8BD2-5547983CDF52}|PL\\PL.csproj|solutionrelative:pl\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E379E70F-1B87-4689-A696-5983C935AC99}|DAL\\DAL.csproj|c:\\users\\my computer\\desktop\\examsimulation6\\dal\\migrations\\20250122172357_email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E379E70F-1B87-4689-A696-5983C935AC99}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\20250122172357_email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -123,35 +199,478 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ExamSimulation\\PL\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "PL\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ExamSimulation\\PL\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "PL\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAAAGgAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-22T13:49:26.955Z",
+              "Title": "IDeparmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\DAL\\Repositories\\Abstractions\\IDeparmentRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\Abstractions\\IDeparmentRepository.cs",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\DAL\\Repositories\\Abstractions\\IDeparmentRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\Abstractions\\IDeparmentRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T18:27:00.506Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ExamSimulation\\PL\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "PL\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ExamSimulation\\PL\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "PL\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-22T13:49:12.473Z"
+              "Title": "IDoctorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\DAL\\Repositories\\Abstractions\\IDoctorRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\Abstractions\\IDoctorRepository.cs",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\DAL\\Repositories\\Abstractions\\IDoctorRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\Abstractions\\IDoctorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T18:26:55.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\DAL\\Repositories\\Concretes\\Repository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\Concretes\\Repository.cs",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\DAL\\Repositories\\Concretes\\Repository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\Concretes\\Repository.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T18:26:47.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\DAL\\Repositories\\Abstractions\\IRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\Abstractions\\IRepository.cs",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\DAL\\Repositories\\Abstractions\\IRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\Abstractions\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T18:26:23.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DoctorConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\DAL\\Configurations\\DoctorConfiguration.cs",
+              "RelativeDocumentMoniker": "DAL\\Configurations\\DoctorConfiguration.cs",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\DAL\\Configurations\\DoctorConfiguration.cs",
+              "RelativeToolTip": "DAL\\Configurations\\DoctorConfiguration.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T18:23:29.693Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "ConfigurationServices.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\BL\\ConfigurationServices.cs",
+              "RelativeDocumentMoniker": "BL\\ConfigurationServices.cs",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\BL\\ConfigurationServices.cs",
+              "RelativeToolTip": "BL\\ConfigurationServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T18:22:16.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConfigurationServices.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\DAL\\ConfigurationServices.cs",
+              "RelativeDocumentMoniker": "DAL\\ConfigurationServices.cs",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\DAL\\ConfigurationServices.cs",
+              "RelativeToolTip": "DAL\\ConfigurationServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T18:22:11.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UploadImage.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\BL\\Utilities\\UploadImage.cs",
+              "RelativeDocumentMoniker": "BL\\Utilities\\UploadImage.cs",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\BL\\Utilities\\UploadImage.cs",
+              "RelativeToolTip": "BL\\Utilities\\UploadImage.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAACIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T13:01:50.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\BL\\DTOs\\AuthDTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "BL\\DTOs\\AuthDTO\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\BL\\DTOs\\AuthDTO\\LoginDTO.cs",
+              "RelativeToolTip": "BL\\DTOs\\AuthDTO\\LoginDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T17:04:39.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\PL\\Program.cs",
+              "RelativeDocumentMoniker": "PL\\Program.cs",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\PL\\Program.cs",
+              "RelativeToolTip": "PL\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T12:45:09.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\DAL\\Contexts\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "DAL\\Contexts\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\DAL\\Contexts\\AppDBContext.cs",
+              "RelativeToolTip": "DAL\\Contexts\\AppDBContext.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADwvysAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T17:09:56.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DepartmentConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\DAL\\Configurations\\DepartmentConfiguration.cs",
+              "RelativeDocumentMoniker": "DAL\\Configurations\\DepartmentConfiguration.cs",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\DAL\\Configurations\\DepartmentConfiguration.cs",
+              "RelativeToolTip": "DAL\\Configurations\\DepartmentConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T13:14:43.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UpdateDepartmentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\BL\\DTOs\\DepartmentDTOs\\UpdateDepartmentDTO.cs",
+              "RelativeDocumentMoniker": "BL\\DTOs\\DepartmentDTOs\\UpdateDepartmentDTO.cs",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\BL\\DTOs\\DepartmentDTOs\\UpdateDepartmentDTO.cs",
+              "RelativeToolTip": "BL\\DTOs\\DepartmentDTOs\\UpdateDepartmentDTO.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwCAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T17:26:39.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\CORE\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "CORE\\Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\CORE\\Models\\Doctor.cs",
+              "RelativeToolTip": "CORE\\Models\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T17:57:39.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\PL\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\PL\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "RelativeToolTip": "PL\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T13:37:51.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\PL\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
+              "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\PL\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
+              "RelativeToolTip": "PL\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T13:28:53.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\CORE\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "CORE\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\CORE\\Models\\Department.cs",
+              "RelativeToolTip": "CORE\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T17:57:43.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetDepartmentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\BL\\DTOs\\DepartmentDTOs\\GetDepartmentDTO.cs",
+              "RelativeDocumentMoniker": "BL\\DTOs\\DepartmentDTOs\\GetDepartmentDTO.cs",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\BL\\DTOs\\DepartmentDTOs\\GetDepartmentDTO.cs",
+              "RelativeToolTip": "BL\\DTOs\\DepartmentDTOs\\GetDepartmentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T18:03:00.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DoctorService.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\BL\\Services\\Concretes\\DoctorService.cs",
+              "RelativeDocumentMoniker": "BL\\Services\\Concretes\\DoctorService.cs",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\BL\\Services\\Concretes\\DoctorService.cs",
+              "RelativeToolTip": "BL\\Services\\Concretes\\DoctorService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAuwC4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T13:40:50.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\BL\\Services\\Concretes\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "BL\\Services\\Concretes\\DepartmentService.cs",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\BL\\Services\\Concretes\\DepartmentService.cs",
+              "RelativeToolTip": "BL\\Services\\Concretes\\DepartmentService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAIAzwCAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T13:03:53.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AddDepartmentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\BL\\DTOs\\DepartmentDTOs\\AddDepartmentDTO.cs",
+              "RelativeDocumentMoniker": "BL\\DTOs\\DepartmentDTOs\\AddDepartmentDTO.cs",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\BL\\DTOs\\DepartmentDTOs\\AddDepartmentDTO.cs",
+              "RelativeToolTip": "BL\\DTOs\\DepartmentDTOs\\AddDepartmentDTO.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T12:43:46.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AddDoctorDTO.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\BL\\DTOs\\DoctorDTOs\\AddDoctorDTO.cs",
+              "RelativeDocumentMoniker": "BL\\DTOs\\DoctorDTOs\\AddDoctorDTO.cs",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\BL\\DTOs\\DoctorDTOs\\AddDoctorDTO.cs",
+              "RelativeToolTip": "BL\\DTOs\\DoctorDTOs\\AddDoctorDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T13:29:08.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\PL\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "PL\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\PL\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "PL\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-22T17:42:10.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UpdateDoctorDTO.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\BL\\DTOs\\DoctorDTOs\\UpdateDoctorDTO.cs",
+              "RelativeDocumentMoniker": "BL\\DTOs\\DoctorDTOs\\UpdateDoctorDTO.cs",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\BL\\DTOs\\DoctorDTOs\\UpdateDoctorDTO.cs",
+              "RelativeToolTip": "BL\\DTOs\\DoctorDTOs\\UpdateDoctorDTO.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA7wCEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T17:27:01.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\PL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PL\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\PL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PL\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAIIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T13:49:26.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\PL\\Areas\\Admin\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\PL\\Areas\\Admin\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "PL\\Areas\\Admin\\Controllers\\DoctorController.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAowGsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T13:23:30.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\PL\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\PL\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "PL\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAkwFoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T12:27:09.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\PL\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\PL\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "PL\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T12:24:50.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20250122172357_email.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\DAL\\Migrations\\20250122172357_email.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\20250122172357_email.cs",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\DAL\\Migrations\\20250122172357_email.cs",
+              "RelativeToolTip": "DAL\\Migrations\\20250122172357_email.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T17:23:57.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\BL\\Services\\Concretes\\AuthService.cs",
+              "RelativeDocumentMoniker": "BL\\Services\\Concretes\\AuthService.cs",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\BL\\Services\\Concretes\\AuthService.cs",
+              "RelativeToolTip": "BL\\Services\\Concretes\\AuthService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T17:04:35.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\PL\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "PL\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\PL\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "PL\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T13:42:31.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\PL\\Areas\\Admin\\Views\\Doctor\\Update.cshtml",
+              "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Views\\Doctor\\Update.cshtml",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\PL\\Areas\\Admin\\Views\\Doctor\\Update.cshtml",
+              "RelativeToolTip": "PL\\Areas\\Admin\\Views\\Doctor\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T13:24:36.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\BL\\DTOs\\AuthDTO\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "BL\\DTOs\\AuthDTO\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\BL\\DTOs\\AuthDTO\\RegisterDTO.cs",
+              "RelativeToolTip": "BL\\DTOs\\AuthDTO\\RegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T17:18:01.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\PL\\Areas\\Admin\\Views\\Department\\Update.cshtml",
+              "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Views\\Department\\Update.cshtml",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\PL\\Areas\\Admin\\Views\\Department\\Update.cshtml",
+              "RelativeToolTip": "PL\\Areas\\Admin\\Views\\Department\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T12:42:25.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\PL\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "PL\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\PL\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "PL\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T13:43:20.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\BL\\Services\\Abstractions\\IAuthService.cs",
+              "RelativeDocumentMoniker": "BL\\Services\\Abstractions\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\BL\\Services\\Abstractions\\IAuthService.cs",
+              "RelativeToolTip": "BL\\Services\\Abstractions\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T17:13:47.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\PL\\Areas\\Admin\\Views\\Department\\Create.cshtml",
+              "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Views\\Department\\Create.cshtml",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\PL\\Areas\\Admin\\Views\\Department\\Create.cshtml",
+              "RelativeToolTip": "PL\\Areas\\Admin\\Views\\Department\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T12:42:38.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\PL\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "PL\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\PL\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "PL\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T13:43:09.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ExamSimulation\\PL\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\PL\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "PL\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ExamSimulation\\PL\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\PL\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "PL\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -159,71 +678,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ExamSimulation\\PL\\Views\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "PL\\Views\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ExamSimulation\\PL\\Views\\Account\\Register.cshtml",
-              "RelativeToolTip": "PL\\Views\\Account\\Register.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAABjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-22T13:43:20.175Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ExamSimulation\\PL\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "PL\\Views\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ExamSimulation\\PL\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "PL\\Views\\Account\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-22T13:43:09.714Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ExamSimulation\\PL\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "PL\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ExamSimulation\\PL\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "PL\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T13:42:31.703Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DoctorService.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ExamSimulation\\BL\\Services\\Concretes\\DoctorService.cs",
-              "RelativeDocumentMoniker": "BL\\Services\\Concretes\\DoctorService.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ExamSimulation\\BL\\Services\\Concretes\\DoctorService.cs",
-              "RelativeToolTip": "BL\\Services\\Concretes\\DoctorService.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAiwDMAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T13:40:50.749Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 37,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ExamSimulation\\PL\\Areas\\Admin\\Views\\Department\\Index.cshtml",
-              "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Views\\Department\\Index.cshtml",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ExamSimulation\\PL\\Areas\\Admin\\Views\\Department\\Index.cshtml",
-              "RelativeToolTip": "PL\\Areas\\Admin\\Views\\Department\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\PL\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PL\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\PL\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PL\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-22T13:37:51.623Z"
+              "WhenOpened": "2025-01-22T13:49:12.473Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 40,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ExamSimulation\\PL\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\PL\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ExamSimulation\\PL\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\PL\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "PL\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -231,35 +702,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AddDoctorDTO.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ExamSimulation\\BL\\DTOs\\DoctorDTOs\\AddDoctorDTO.cs",
-              "RelativeDocumentMoniker": "BL\\DTOs\\DoctorDTOs\\AddDoctorDTO.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ExamSimulation\\BL\\DTOs\\DoctorDTOs\\AddDoctorDTO.cs",
-              "RelativeToolTip": "BL\\DTOs\\DoctorDTOs\\AddDoctorDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T13:29:08.001Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ExamSimulation\\PL\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
-              "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ExamSimulation\\PL\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
-              "RelativeToolTip": "PL\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-22T13:28:53.503Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 39,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ExamSimulation\\PL\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\PL\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
               "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ExamSimulation\\PL\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\PL\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
               "RelativeToolTip": "PL\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -267,35 +714,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ExamSimulation\\PL\\Areas\\Admin\\Views\\Doctor\\Update.cshtml",
-              "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Views\\Doctor\\Update.cshtml",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ExamSimulation\\PL\\Areas\\Admin\\Views\\Doctor\\Update.cshtml",
-              "RelativeToolTip": "PL\\Areas\\Admin\\Views\\Doctor\\Update.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-22T13:24:36.104Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DoctorController.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ExamSimulation\\PL\\Areas\\Admin\\Controllers\\DoctorController.cs",
-              "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Controllers\\DoctorController.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ExamSimulation\\PL\\Areas\\Admin\\Controllers\\DoctorController.cs",
-              "RelativeToolTip": "PL\\Areas\\Admin\\Controllers\\DoctorController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T13:23:30.316Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 41,
               "Title": "DoctorProfile.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ExamSimulation\\BL\\Profiles\\DoctorProfile.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\BL\\Profiles\\DoctorProfile.cs",
               "RelativeDocumentMoniker": "BL\\Profiles\\DoctorProfile.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ExamSimulation\\BL\\Profiles\\DoctorProfile.cs",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\BL\\Profiles\\DoctorProfile.cs",
               "RelativeToolTip": "BL\\Profiles\\DoctorProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -303,11 +726,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 42,
               "Title": "DepartmentProfile.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ExamSimulation\\BL\\Profiles\\DepartmentProfile.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\BL\\Profiles\\DepartmentProfile.cs",
               "RelativeDocumentMoniker": "BL\\Profiles\\DepartmentProfile.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ExamSimulation\\BL\\Profiles\\DepartmentProfile.cs",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\BL\\Profiles\\DepartmentProfile.cs",
               "RelativeToolTip": "BL\\Profiles\\DepartmentProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -315,107 +738,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "DepartmentConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ExamSimulation\\DAL\\Configurations\\DepartmentConfiguration.cs",
-              "RelativeDocumentMoniker": "DAL\\Configurations\\DepartmentConfiguration.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ExamSimulation\\DAL\\Configurations\\DepartmentConfiguration.cs",
-              "RelativeToolTip": "DAL\\Configurations\\DepartmentConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T13:14:43.582Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "DepartmentService.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ExamSimulation\\BL\\Services\\Concretes\\DepartmentService.cs",
-              "RelativeDocumentMoniker": "BL\\Services\\Concretes\\DepartmentService.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ExamSimulation\\BL\\Services\\Concretes\\DepartmentService.cs",
-              "RelativeToolTip": "BL\\Services\\Concretes\\DepartmentService.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAEwCUAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T13:03:53.868Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "UploadImage.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ExamSimulation\\BL\\Utilities\\UploadImage.cs",
-              "RelativeDocumentMoniker": "BL\\Utilities\\UploadImage.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ExamSimulation\\BL\\Utilities\\UploadImage.cs",
-              "RelativeToolTip": "BL\\Utilities\\UploadImage.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T13:01:50.374Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "AddDepartmentDTO.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ExamSimulation\\BL\\DTOs\\DepartmentDTOs\\AddDepartmentDTO.cs",
-              "RelativeDocumentMoniker": "BL\\DTOs\\DepartmentDTOs\\AddDepartmentDTO.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ExamSimulation\\BL\\DTOs\\DepartmentDTOs\\AddDepartmentDTO.cs",
-              "RelativeToolTip": "BL\\DTOs\\DepartmentDTOs\\AddDepartmentDTO.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAABdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T12:43:46.991Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ExamSimulation\\PL\\Program.cs",
-              "RelativeDocumentMoniker": "PL\\Program.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ExamSimulation\\PL\\Program.cs",
-              "RelativeToolTip": "PL\\Program.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAgwCQAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T12:45:09.47Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ExamSimulation\\PL\\Areas\\Admin\\Views\\Department\\Create.cshtml",
-              "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Views\\Department\\Create.cshtml",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ExamSimulation\\PL\\Areas\\Admin\\Views\\Department\\Create.cshtml",
-              "RelativeToolTip": "PL\\Areas\\Admin\\Views\\Department\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-22T12:42:38.472Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ExamSimulation\\PL\\Areas\\Admin\\Views\\Department\\Update.cshtml",
-              "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Views\\Department\\Update.cshtml",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ExamSimulation\\PL\\Areas\\Admin\\Views\\Department\\Update.cshtml",
-              "RelativeToolTip": "PL\\Areas\\Admin\\Views\\Department\\Update.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-22T12:42:25.282Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DepartmentController.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ExamSimulation\\PL\\Areas\\Admin\\Controllers\\DepartmentController.cs",
-              "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Controllers\\DepartmentController.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ExamSimulation\\PL\\Areas\\Admin\\Controllers\\DepartmentController.cs",
-              "RelativeToolTip": "PL\\Areas\\Admin\\Controllers\\DepartmentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T12:27:09.202Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 44,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ExamSimulation\\PL\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\PL\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ExamSimulation\\PL\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\PL\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "PL\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAADUAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -423,27 +750,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 43,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ExamSimulation\\PL\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\PL\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ExamSimulation\\PL\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\ExamSimulation6\\PL\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "RelativeToolTip": "PL\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "ViewState": "AgIAAPYBAAAAAAAAAAAQwAcCAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-22T12:24:59.476Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ExamSimulation\\PL\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "PL\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ExamSimulation\\PL\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "PL\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T12:24:50.636Z"
             }
           ]
         }

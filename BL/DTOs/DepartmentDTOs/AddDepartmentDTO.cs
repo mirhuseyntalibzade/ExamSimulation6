@@ -1,4 +1,5 @@
-﻿using FluentValidation;
+﻿using BL.Utilities;
+using FluentValidation;
 using Microsoft.AspNetCore.Http;
 
 namespace BL.DTOs.DepartmentDTOs
@@ -23,7 +24,8 @@ namespace BL.DTOs.DepartmentDTOs
             RuleFor(x => x.Image)
                 .Cascade(CascadeMode.Stop)
                 .NotNull().WithMessage("Image cannot be null")
-                .Must(x => x.Length < 5 * 1024 * 1024).WithMessage("Department is required");
+                .Must(x => x.Length < 5 * 1024 * 1024).WithMessage("Department is required")
+                .Must(x => x.CheckType("image")).WithMessage("File must be image!");
         }
     }
 }

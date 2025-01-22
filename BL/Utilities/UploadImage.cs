@@ -29,5 +29,10 @@ namespace BL.Utilities
 
             return fileName;
         }
+
+        public static bool CheckType(this IFormFile img, string requiredType)
+        {
+            return img.ContentType.Contains(requiredType);
+        }
     }
 }

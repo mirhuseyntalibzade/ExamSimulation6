@@ -2,6 +2,7 @@
 using BL.DTOs.DoctorDTOs;
 using BL.Exceptions;
 using BL.Services.Abstractions;
+using Humanizer;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
@@ -42,7 +43,7 @@ namespace PL.Areas.Admin.Controllers
                 dto.Departments = await _departmentService.SelectAllDepartmentsAsync();
                 return View(dto);
             }
-            catch(MainException ex)
+            catch (MainException ex)
             {
                 return BadRequest(ex.Message);
             }
@@ -56,23 +57,26 @@ namespace PL.Areas.Admin.Controllers
         [HttpPost]
         public async Task<IActionResult> Create(AddDoctorDTO dto)
         {
-            //if (!ModelState.IsValid)
-            //{
-            //    return View(dto);
-            //}
             try
             {
+                if (!ModelState.IsValid)
+                {
+                    dto.Departments = await _departmentService.SelectAllDepartmentsAsync();
+                    return View(dto);
+                }
                 await _doctorService.CreateDoctorAsync(dto);
                 await _doctorService.SaveChangesAsync();
                 return RedirectToAction("Index");
             }
             catch (MainException ex)
             {
-                return BadRequest(ex.Message);
+                ModelState.AddModelError("CustomError", ex.Message);
+                return View(dto);
             }
             catch (Exception ex)
             {
-                return BadRequest(ex.Message);
+                ModelState.AddModelError("CustomError", ex.Message);
+                return View(dto);
             }
         }
 
@@ -97,23 +101,26 @@ namespace PL.Areas.Admin.Controllers
         [HttpPost]
         public async Task<IActionResult> Update(UpdateDoctorDTO updateDto)
         {
-            //if (!ModelState.IsValid)
-            //{
-            //    return View(updateDto);
-            //}
             try
             {
+                if (!ModelState.IsValid)
+                {
+                    updateDto.Departments = await _departmentService.SelectAllDepartmentsAsync();
+                    return View(updateDto);
+                }
                 await _doctorService.UpdateDoctorAsync(updateDto);
                 await _doctorService.SaveChangesAsync();
                 return RedirectToAction("Index");
             }
             catch (MainException ex)
             {
-                return BadRequest(ex.Message);
+                ModelState.AddModelError("CustomError", ex.Message);
+                return View(updateDto);
             }
             catch (Exception ex)
             {
-                return BadRequest(ex.Message);
+                ModelState.AddModelError("CustomError", ex.Message);
+                return View(updateDto);
             }
         }
 
