@@ -1,0 +1,29 @@
+﻿@model LoginDTO
+
+<div class="container position-relative wow fadeInUp" data-wow-delay="0.1s">
+    <div class="row justify-content-center">
+        <div class="col-lg-8">
+            <div class="bg-light text-center p-5">
+                <h1 class="mb-4">Login</h1>
+                <form method="post">
+                    <div class="row g-3">
+                        <div class="col-12">
+                            <input type="email" class="form-control border-0" placeholder="Your Email" style="height: 55px;">
+                            <span asp-validation-for="Email"></span>
+                        </div>
+                        <div class="col-12">
+                            <input type="password" class="form-control border-0" placeholder="Your Password" style="height: 55px;">
+                            <span asp-validation-for="Password"></span>
+                        </div>
+                        <div class="col-12">
+                            <span>Dont you have an account? <a asp-controller="Account" asp-action="Register">Register</a> now!</span>
+                        </div>
+                        <div class="col-12">
+                            <button class="btn btn-primary w-100 py-3" type="submit">Login</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

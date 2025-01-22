@@ -1,0 +1,11 @@
+C:\Users\II Novbe\source\repos\ExamSimulation\CORE\bin\Debug\net8.0\CORE.deps.json
+C:\Users\II Novbe\source\repos\ExamSimulation\CORE\bin\Debug\net8.0\CORE.dll
+C:\Users\II Novbe\source\repos\ExamSimulation\CORE\bin\Debug\net8.0\CORE.pdb
+C:\Users\II Novbe\source\repos\ExamSimulation\CORE\obj\Debug\net8.0\CORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\source\repos\ExamSimulation\CORE\obj\Debug\net8.0\CORE.AssemblyInfoInputs.cache
+C:\Users\II Novbe\source\repos\ExamSimulation\CORE\obj\Debug\net8.0\CORE.AssemblyInfo.cs
+C:\Users\II Novbe\source\repos\ExamSimulation\CORE\obj\Debug\net8.0\CORE.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\source\repos\ExamSimulation\CORE\obj\Debug\net8.0\CORE.dll
+C:\Users\II Novbe\source\repos\ExamSimulation\CORE\obj\Debug\net8.0\refint\CORE.dll
+C:\Users\II Novbe\source\repos\ExamSimulation\CORE\obj\Debug\net8.0\CORE.pdb
+C:\Users\II Novbe\source\repos\ExamSimulation\CORE\obj\Debug\net8.0\ref\CORE.dll

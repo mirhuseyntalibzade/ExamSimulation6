@@ -1,0 +1,17 @@
+C:\Users\II Novbe\source\repos\ExamSimulation\BL\bin\Debug\net8.0\BL.deps.json
+C:\Users\II Novbe\source\repos\ExamSimulation\BL\bin\Debug\net8.0\BL.dll
+C:\Users\II Novbe\source\repos\ExamSimulation\BL\bin\Debug\net8.0\BL.pdb
+C:\Users\II Novbe\source\repos\ExamSimulation\BL\obj\Debug\net8.0\BL.csproj.AssemblyReference.cache
+C:\Users\II Novbe\source\repos\ExamSimulation\BL\obj\Debug\net8.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\source\repos\ExamSimulation\BL\obj\Debug\net8.0\BL.AssemblyInfoInputs.cache
+C:\Users\II Novbe\source\repos\ExamSimulation\BL\obj\Debug\net8.0\BL.AssemblyInfo.cs
+C:\Users\II Novbe\source\repos\ExamSimulation\BL\obj\Debug\net8.0\BL.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\source\repos\ExamSimulation\BL\obj\Debug\net8.0\BL.dll
+C:\Users\II Novbe\source\repos\ExamSimulation\BL\obj\Debug\net8.0\refint\BL.dll
+C:\Users\II Novbe\source\repos\ExamSimulation\BL\obj\Debug\net8.0\BL.pdb
+C:\Users\II Novbe\source\repos\ExamSimulation\BL\obj\Debug\net8.0\ref\BL.dll
+C:\Users\II Novbe\source\repos\ExamSimulation\BL\bin\Debug\net8.0\CORE.dll
+C:\Users\II Novbe\source\repos\ExamSimulation\BL\bin\Debug\net8.0\DAL.dll
+C:\Users\II Novbe\source\repos\ExamSimulation\BL\bin\Debug\net8.0\CORE.pdb
+C:\Users\II Novbe\source\repos\ExamSimulation\BL\bin\Debug\net8.0\DAL.pdb
+C:\Users\II Novbe\source\repos\ExamSimulation\BL\obj\Debug\net8.0\BL.csproj.Up2Date

@@ -1,0 +1,64 @@
+﻿@model ICollection<GetDoctorDTO>
+
+<!-- Begin Page Content -->
+<div class="container-fluid">
+
+    <!-- Page Heading -->
+    <h1 class="h3 mb-2 text-gray-800">Doctor</h1>
+
+    <a asp-action="Create" asp-controller="Doctor">
+        <button class="btn btn-success mb-3">
+            Create
+        </button>
+    </a>
+
+    <!-- DataTales Example -->
+    <div class="card shadow mb-4">
+        <div class="card-header py-3">
+            <h6 class="m-0 font-weight-bold text-primary">Doctors table</h6>
+        </div>
+        <div class="card-body">
+            <div class="table-responsive">
+                <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                    <thead>
+                        <tr>
+                            <th>#</th>
+                            <th>Image</th>
+                            <th>Name</th>
+                            <th>CreatedAt</th>
+                            <th>UpdatedAt</th>
+                            <th>Update</th>
+                            <th>Delete</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (GetDoctorDTO item in Model)
+                        {
+                            <tr>
+                                <td>@item.Id</td>
+                                <td><img src="~/uploads/doctors/@item.ImageURL" alt="department_img" /></td>
+                                <td>@item.Name</td>
+                                <td>@item.CreatedAt</td>
+                                <td>@item.UpdatedAt</td>
+                                <td>
+                                    <a asp-action="Update" asp-controller="Doctor" asp-route-id="@item.Id">
+                                        <button class="btn btn-warning">
+                                            Update
+                                        </button>
+                                    </a>
+                                </td>
+                                <td>
+                                    <a asp-action="Delete" asp-controller="Doctor" asp-route-id="@item.Id">
+                                        <button class="btn btn-danger">
+                                            Delete
+                                        </button>
+                                    </a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
